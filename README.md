@@ -43,24 +43,18 @@
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/> 
   </a>
-  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/argoproj/argo-cd/master/docs/assets/logo/argocd-logo-light.svg" alt="argocd" width="40" height="40"/>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
   </a>
-  <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="40" height="40"/> 
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
   </a>
-  <a href="https://trivy.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/aquasecurity/trivy/master/docs/images/logo.svg" alt="trivy" width="40" height="40"/>
-  </a>
-  <a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github actions" width="40" height="40"/>
   </a>
-  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="maven" width="40" height="40"/> 
-  </a> 
 </p>
 
 <h4>Cloud:</h4>
